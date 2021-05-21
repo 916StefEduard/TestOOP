@@ -1,0 +1,5 @@
+Potato_family;Potato;fruit
+Potato_family;Tomato;fruit
+Beetroot_family;Spinach;leaves
+Marror_family;Melon;fruit
+Onion_family;Onion;stem,root

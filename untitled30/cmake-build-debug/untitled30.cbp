@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled30"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/User/CLionProjects/untitled30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled30">
+				<Option output="C:/Users/User/CLionProjects/untitled30/cmake-build-debug/untitled30.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/CLionProjects/untitled30/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled30"/>
+					<CompileFile command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled30/fast">
+				<Option output="C:/Users/User/CLionProjects/untitled30/cmake-build-debug/untitled30.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/CLionProjects/untitled30/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MingW compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled30/fast"/>
+					<CompileFile command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/User/CLionProjects/untitled30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/User/CLionProjects/untitled30/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWC~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/CLionProjects/untitled30/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/domain/domain.cpp">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/domain/domain.h">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/main.cpp">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/repository/repository.cpp">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/repository/repository.h">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/service/service.cpp">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/service/service.h">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/ui/ui.cpp">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/ui/ui.h">
+			<Option target="untitled30"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/untitled30/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
